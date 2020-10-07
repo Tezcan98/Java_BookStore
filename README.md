@@ -1,6 +1,7 @@
 # Java_BookStory
-<h2>Database lectures homework <h2>
-Database Roles adjusted as  <br>
+Database lectures homework 
+  
+ Database Roles adjusted as  <br>
 GRANT ALL PRIVILEGES ON public.kitaplar TO personel; <br>
 GRANT select ON ALL TABLES IN SCHEMA public TO personel;  <br>
 grant delete on public.kitapsiparisi to personel;  <br>

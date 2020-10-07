@@ -14,6 +14,6 @@ Grant select on public.siparis,public.kitaplar to musteri; <br>
 GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA public TO admin;*/ <br>
 GRANT SELECT ON public.musteri TO musteri; <br>
 
-java swing is used. <br>
+java swing has been used <br>
 
 There is no database file in reposity, you can rewrite with looking at code <br>
